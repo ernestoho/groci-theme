@@ -1,10 +1,10 @@
 {
-  "name": "@frontity/groci-theme",
+  "name": "groci-theme",
   "version": "1.4.1",
   "description": "A starter theme for Frontity",
   "keywords": [
-    "frontity",
-    "frontity-theme"
+    "groci",
+    "groci-theme"
   ],
   "homepage": "https://demo.toomuchcases.com/",
   "license": "Apache-2.0",
